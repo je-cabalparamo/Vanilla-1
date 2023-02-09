@@ -1,0 +1,56 @@
+[
+    {
+        "precio": 500,
+        "id": 1,
+        "title": "Café",
+        "imageUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+        "precio": 500,
+        "id": 2,
+        "title": "turkey",
+        "imageUrl": "https://picsum.photos/id/2/600"
+    },
+    {
+        "precio": 102,
+        "id": 3,
+        "title": "Mario Kart wii",
+        "imageUrl": "https://picsum.photos/id/4/600"
+    },
+    {
+        "precio": 950,
+        "id": 4,
+        "title": "flingsmash",
+        "imageUrl": "https://picsum.photos/id/69/600"
+    },
+    {
+        "precio": 255,
+        "id": 5,
+        "title": "pato",
+        "imageUrl": "https://picsum.photos/id/15/600"
+    },
+    {
+        "precio": 150,
+        "id": 6,
+        "title": "surprise",
+        "imageUrl": "https://picsum.photos/id/9/600"
+    },
+    {
+        "precio": 200,
+        "id": 7,
+        "title": "coordinates",
+        "imageUrl": "https://picsum.photos/id/42/600"
+    },
+    {
+        "precio": 450,
+        "id": 8,
+        "title": "bathbomb",
+        "imageUrl": "https://picsum.photos/id/90/600"
+    },
+    {
+        "precio": 300,
+        "id": 9,
+        "title": "plushie",
+        "imageUrl": "https://picsum.photos/id/25/600"
+    }
+]
