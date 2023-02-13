@@ -15,25 +15,25 @@
         "precio": 102,
         "id": 3,
         "title": "Mario Kart wii",
-        "imageUrl": "https://picsum.photos/id/4/600"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Mario_Kart_Wii.png"
     },
     {
         "precio": 950,
         "id": 4,
         "title": "flingsmash",
-        "imageUrl": "https://picsum.photos/id/69/600"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/Flingsmash_cover.png"
     },
     {
         "precio": 255,
         "id": 5,
         "title": "pato",
-        "imageUrl": "https://picsum.photos/id/15/600"
+        "imageUrl": "https://media.tenor.com/Uh4Mcry2P8EAAAAC/pato-bailar.gif"
     },
     {
         "precio": 150,
         "id": 6,
         "title": "surprise",
-        "imageUrl": "https://picsum.photos/id/9/600"
+        "imageUrl": "https://i0.wp.com/scottwoodardcoaching.com/wp-content/uploads/2017/11/spanish-inquisition.jpg?resize=460%2C316&ssl=1"
     },
     {
         "precio": 200,
